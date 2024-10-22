@@ -1,10 +1,10 @@
-# Configuration
+# Setup Guide
 
-Configuration to run on Ubuntu 22.04 to setup everything to get a working enviroment
+Setup to run on Ubuntu 22.04
 
 ### Ubuntu
 1. Create the `dependency_versions.txt` file as provided.
-2. Download [`https://github.com/yashsingh74/packageinstaller/blob/main/setup_ubuntu.sh`](setup_ubuntu.sh)
+2. Download [`https://github.com/yashsingh74/common_install/blob/main/setup_ubuntu.sh`](setup_ubuntu.sh)
 3. make the script executable
    ```shell
    chmod +x setup_ubuntu.sh
